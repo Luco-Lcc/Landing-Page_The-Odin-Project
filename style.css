@@ -24,7 +24,6 @@
     font-size: 24px;
     color: #F9FAF8;
     font-weight: 800;
-
 }
 
 .header-links, a:link, a:visited {
@@ -81,6 +80,10 @@
 .button:hover {
     background-color: white;
     color: #3882F6;
+}
+
+.second-sec {
+    height: 350px;
 }
 
 .third-sec {
