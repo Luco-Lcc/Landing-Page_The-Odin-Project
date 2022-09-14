@@ -82,3 +82,27 @@
     background-color: white;
     color: #3882F6;
 }
+
+.third-sec {
+    background-color: #E5E7EB;
+    padding-left: 350px;
+    padding-right: 350px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.quote-text{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: justify;
+}
+
+.quote-author {
+    font-size: 18px;
+    font-weight: 800;
+    display: flex;
+    justify-content: flex-end;
+}
